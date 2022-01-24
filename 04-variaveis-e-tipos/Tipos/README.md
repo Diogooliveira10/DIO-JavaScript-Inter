@@ -31,3 +31,8 @@ Métodos importantes:
 ## Objetos
    Estrutura tipo "chave e valor"
 ![image](https://user-images.githubusercontent.com/55243757/150880543-ae96ff4e-5bd3-4ae3-9ab1-9d06c3ba0372.png)
+
+## Empty, null e undefined
+   * <b>Empty</b>: Uma declaração vazia é usada para fornecer nenhuma declaração, embora a sintaxe do JavaScript esperasse uma.
+   * <b>Null</b>: O valor null é um literal em JavaScript que representa um valor nulo ou "vazio" (p/ex: que aponta para um objeto inexistente). É um dos valores primitivos do JavaScript.
+   * <b>Undefined</b>: O valor global undefined representa um valor indefinido. Trata-se de um dos tipos primitivos do JavaScript.
