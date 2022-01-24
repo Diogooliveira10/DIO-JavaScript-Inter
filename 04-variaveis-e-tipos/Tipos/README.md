@@ -27,3 +27,7 @@ Métodos importantes:
 ## Arrays
    Lista iterável de elementos.
 ![image](https://user-images.githubusercontent.com/55243757/150878071-da61566c-72c4-4fe0-b37f-9ae8b9334c84.png)
+
+## Objetos
+   Estrutura tipo "chave e valor"
+![image](https://user-images.githubusercontent.com/55243757/150880543-ae96ff4e-5bd3-4ae3-9ab1-9d06c3ba0372.png)
