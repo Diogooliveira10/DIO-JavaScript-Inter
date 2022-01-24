@@ -17,3 +17,6 @@ Métodos importantes:
    * Iterabilidade
    * Formatação
    * Index de letras
+
+## Numbers
+   * Números inteiros ou decimais
