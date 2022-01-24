@@ -10,3 +10,14 @@
    <b>Case Type:</b> Pascal Case <b>Example:</b> `someAwesomeVar`<br>
 
    <b>Case Type:</b> Upper Case Snake Case <b>Example:</b> `SOME_AWESOME_VAR`<br>
+
+## Var e let
+   * Escopos diferentes;
+   * Hoisting;
+   * Redeclaração;
+   * Reatribuição.
+
+## Constantes
+   * Declarada em SNAKE_UPPER_CASE;
+   * Escopo de bloco;
+   * Não faz hoisting.
