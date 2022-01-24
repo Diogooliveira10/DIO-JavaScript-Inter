@@ -19,4 +19,7 @@ Métodos importantes:
    * Index de letras
 
 ## Numbers
-   * Números inteiros ou decimais
+   Números inteiros ou decimais
+
+## Booleans
+   É um tipo de dado primitivo que possui dois valores, que podem ser considerados como 0 ou 1, falso ou verdadeiro.
