@@ -23,3 +23,7 @@ Métodos importantes:
 
 ## Booleans
    É um tipo de dado primitivo que possui dois valores, que podem ser considerados como 0 ou 1, falso ou verdadeiro.
+
+## Arrays
+   Lista iterável de elementos.
+![image](https://user-images.githubusercontent.com/55243757/150878071-da61566c-72c4-4fe0-b37f-9ae8b9334c84.png)
