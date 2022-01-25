@@ -78,3 +78,25 @@
    - Ideal para quando se precisa comparar muitos valores</br>
 
 ![image](https://user-images.githubusercontent.com/55243757/150998966-7045da49-d931-4d7c-94a6-4210a6eb62ea.png)</br>
+
+## For
+   Loop dentro de elementos interáveis (arrays, strings).</br>
+![image](https://user-images.githubusercontent.com/55243757/151002251-c845c0cf-d21b-4b5f-8415-5d5fa3d9ba1b.png)</br>
+
+## For...in
+   Loop entre propriedades enumeráveis de um objeto.</br>
+![image](https://user-images.githubusercontent.com/55243757/151003461-e4de26c1-583d-4a53-868b-87f178960b46.png)![image](https://user-images.githubusercontent.com/55243757/151003785-86aa575b-9d04-4f5f-bac2-26745bbe8c29.png)</br>
+
+## For...of
+   Loop entre estruturas iteráveis (arrays, strings).</br>
+![image](https://user-images.githubusercontent.com/55243757/151004789-ebd53b6b-1e3d-4081-905a-6080858a0f79.png)
+![image](https://user-images.githubusercontent.com/55243757/151005328-54ae3672-98d5-4263-84be-f2d0bb1fdfeb.png)</br>
+
+## While
+   Executa instruções até que a condição se torne falsa.</br>
+![image](https://user-images.githubusercontent.com/55243757/151006091-3e650ae8-df0c-48ad-a6c7-93d7e01388c0.png)</br>
+
+## Do...While
+   Executa instruções até que a condição se torne falsa.</br>
+   Porém <b>a primeira execução sempre ocorre.</b></br>
+![image](https://user-images.githubusercontent.com/55243757/151006866-2ee890c0-2fce-4ab6-be86-475e1e49c40c.png)![image](https://user-images.githubusercontent.com/55243757/151007096-dedce927-bcb3-4cab-8fda-23b093bcef0c.png)</br>
