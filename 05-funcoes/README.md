@@ -35,3 +35,11 @@
 ![image](https://user-images.githubusercontent.com/55243757/150985596-70a19cbc-74de-4dbd-95a2-8d05d364bb4f.png)</br>
 
    Utilizando callbacks, você tem maior controle da ordem de chamadas.
+
+# Parâmetros
+![image](https://user-images.githubusercontent.com/55243757/150987434-cb7250b2-7cd7-4e9b-a316-349b0057132b.png) ![image](https://user-images.githubusercontent.com/55243757/150987839-6ba04bf4-d873-452e-acd7-b2de4f4d9127.png)</br>
+
+## Objeto "arguments"
+![image](https://user-images.githubusercontent.com/55243757/150989186-af1b3574-09f8-4935-bcaa-f2579bd0ce0d.png)</br>
+   
+   Um array com todos os parâmetros passados quando a função foi invocada.
