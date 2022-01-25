@@ -1,20 +1,12 @@
 
 
-const pessoa = {
-    firstName: "Diogo",
-    lastName: "Oliveira",
-    id: 1,
-    fullName: function() {
-        return this.firstName + " " + this.lastName;
-    },
-    getId: function() {
-        return this.id;
-    }
+const retornaNomes = function() {
+    return this.nome;
 };
 
-console.log(pessoa.fullName());
-// Diogo Oliveira
-console.log(pessoa.getId());
-// 1
+let stephany = retornaNomes.bind({ nome: 'Stephany' });
+
+console.log(stephany());
+// Stephany
 
 
