@@ -43,3 +43,20 @@
 ![image](https://user-images.githubusercontent.com/55243757/150989186-af1b3574-09f8-4935-bcaa-f2579bd0ce0d.png)</br>
    
    Um array com todos os parâmetros passados quando a função foi invocada.
+
+## Arrays
+   <b>Spread:</b> uma forma de lidar separadamente com elementos</br>
+![image](https://user-images.githubusercontent.com/55243757/150992173-161f4c80-6844-4524-b382-6e73a456d558.png)</br>
+
+   O que era parte de um array se torna um elemento independente.
+
+   <b>Rest:</b> combina os argumentos em um array
+![image](https://user-images.githubusercontent.com/55243757/150992661-336bad10-882b-46b3-b844-779d65710c9b.png)</br>
+
+   O que era um elemento independente se torna parte de um array.
+
+## Objetos
+   Object Destructuring
+![image](https://user-images.githubusercontent.com/55243757/150993910-7fbdf989-9f37-4af2-aa07-4722d08f1acf.png)</br>
+
+   Entre chaves {}, podemos filtrar apenas os dados que nos interessam em um objeto.

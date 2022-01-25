@@ -1,15 +1,24 @@
 
 
-function findMax() {
-    let max = -Infinity;
-
-    for(let i = 0; i < arguments.length; i++) {
-        if(arguments[i] > max) {
-            max = arguments[i];
-        }
+const user = {
+    id: 27,
+    displayName: 'Di',
+    fullName: {
+        firstName: 'Diogo',
+        lastName: 'Oliveira'
     }
+};
 
-    return max;
+function userId({id}) {
+    return id;
 }
 
-findMax(1, 2, 3, 6, 90, 1)
+function getFullName({fullName: {firstName: first, lastName: last}}) {
+    return `${first} ${last}`;
+}
+
+console.log(userId(user))
+// 27
+console.log(getFullName(user))
+// Diogo Oliveira
+
