@@ -10,4 +10,7 @@
   Expert [Stephany Nusch](https://www.linkedin.com/in/stephanynusch/) passa a introdução aos principais operadores para manipular valores no código.
   
 ## Variáveis e Tipos
-  Principais estruturas de dados do Javascript, como utilizá-las e suas possibilidades.
+  Principais estruturas de dados do Javascript, como utilizá-las e suas possibilidades. Prfª [Stephany Nusch](https://www.linkedin.com/in/stephanynusch/)
+
+## Funções
+  Aprendendo a declarar funções e manipular parâmetros. Além disso, conhecendo conceitos como loops, argumento "this" e arrow functions. Prfª [Stephany Nusch](https://www.linkedin.com/in/stephanynusch/)
