@@ -118,7 +118,7 @@
 ![image](https://user-images.githubusercontent.com/55243757/151043966-e6d58c79-c260-4d2c-8775-3c67273dee4d.png)</br>
 
 ## Apply
-   O método <b>apply()</b> chama uma função com um dado valor `this` e `arguments` providos como uma array (ou um objeto parecido com um array).
+   O método <b>apply()</b> chama uma função com um dado valor `this` e `arguments` providos como uma array (ou um objeto parecido com um array).</br>
 ![image](https://user-images.githubusercontent.com/55243757/151044691-e9d2317c-eed4-410e-acae-1b9c50d145d2.png)</br>
 
    É possível passar parâmetros para essa função dentro de um array.</br>
