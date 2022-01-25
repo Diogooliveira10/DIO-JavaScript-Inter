@@ -111,21 +111,21 @@
 ![image](https://user-images.githubusercontent.com/55243757/151041798-f257ab54-f40e-444e-bc4d-376528aaddf5.png)</br>
 
 ## Call
-   O método <b>call()</b> invoca uma função com um dado valor `this` e argumentos passados individualmente.</br>
+   O método <b>call()</b> transforma o valor de `this` no do objeto enviado como primeiro parâmetro e aceita outros parâmetros separados por vírgulas. É reutilizável em outros objetos.</br>
 ![image](https://user-images.githubusercontent.com/55243757/151043354-61a5f5d2-dd5a-499d-8ffb-e10f14331eae.png)</br>
 
    É possível passar parâmetros para essa função separando-os por vírgulas.</br>
 ![image](https://user-images.githubusercontent.com/55243757/151043966-e6d58c79-c260-4d2c-8775-3c67273dee4d.png)</br>
 
 ## Apply
-   O método <b>apply()</b> chama uma função com um dado valor `this` e `arguments` providos como uma array (ou um objeto parecido com um array).</br>
+   O método <b>apply()</b> transforma o valor de `this` no objeto enviado como primeiro parâmetro e aceita outros parâmetros através de um array. É reutilizável em outros objetos.</br>
 ![image](https://user-images.githubusercontent.com/55243757/151044691-e9d2317c-eed4-410e-acae-1b9c50d145d2.png)</br>
 
    É possível passar parâmetros para essa função dentro de um array.</br>
 ![image](https://user-images.githubusercontent.com/55243757/151045153-a69b4689-c1db-41ec-8538-557f6dcfd172.png)</br>
 
 ## Bind
-   Clona a estrutura da função onde é chamada e aplica o valor do objeto passado como parâmetro.</br>
+   Cria um clone de função na qual for invocado, designando a `this` o valor do objeto passado como parâmetro.</br>
 ![image](https://user-images.githubusercontent.com/55243757/151045836-ce2cb67d-b727-499e-9b00-437648d76cb7.png)</br>
 
 # Arrow functions
