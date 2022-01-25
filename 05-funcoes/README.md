@@ -100,3 +100,12 @@
    Executa instruções até que a condição se torne falsa.</br>
    Porém <b>a primeira execução sempre ocorre.</b></br>
 ![image](https://user-images.githubusercontent.com/55243757/151006866-2ee890c0-2fce-4ab6-be86-475e1e49c40c.png)![image](https://user-images.githubusercontent.com/55243757/151007096-dedce927-bcb3-4cab-8fda-23b093bcef0c.png)</br>
+
+# This
+## O que é this?
+   Apalavra reservada <b>this</b> é uma referência de contexto.</br>
+   No exemplo, this refere-se ao objeto pessoa:</br>
+![image](https://user-images.githubusercontent.com/55243757/151041295-d77d517f-3d9f-4d90-a219-efac25cf7420.png)</br>
+
+   Seu valor pode mudar de acordo com o lugar no código onde foi chamada.</br>
+![image](https://user-images.githubusercontent.com/55243757/151041798-f257ab54-f40e-444e-bc4d-376528aaddf5.png)</br>
