@@ -46,17 +46,35 @@
 
 ## Arrays
    <b>Spread:</b> uma forma de lidar separadamente com elementos</br>
+
 ![image](https://user-images.githubusercontent.com/55243757/150992173-161f4c80-6844-4524-b382-6e73a456d558.png)</br>
 
    O que era parte de um array se torna um elemento independente.
 
-   <b>Rest:</b> combina os argumentos em um array
+   <b>Rest:</b> combina os argumentos em um array</br>
+
 ![image](https://user-images.githubusercontent.com/55243757/150992661-336bad10-882b-46b3-b844-779d65710c9b.png)</br>
 
    O que era um elemento independente se torna parte de um array.
 
 ## Objetos
-   Object Destructuring
+   Object Destructuring</br>
+
 ![image](https://user-images.githubusercontent.com/55243757/150993910-7fbdf989-9f37-4af2-aa07-4722d08f1acf.png)</br>
 
    Entre chaves {}, podemos filtrar apenas os dados que nos interessam em um objeto.
+
+# Loops
+
+## if/else
+![image](https://user-images.githubusercontent.com/55243757/150996058-8e70a5fe-1ed0-43dd-85b6-538ed24f4389.png)</br>
+
+   Javascript <b>não tem elseif</b>, as palavras sempre estão espaçadas!</br>
+![image](https://user-images.githubusercontent.com/55243757/150997626-c97c8759-b5a1-4586-927d-7e1702a1d3f7.png)</br>
+
+## Switch/case
+   - Equivale a uma comparação de tipo e valor (===)
+   - Sempre precisa de um valor "default
+   - Ideal para quando se precisa comparar muitos valores</br>
+
+![image](https://user-images.githubusercontent.com/55243757/150998966-7045da49-d931-4d7c-94a6-4210a6eb62ea.png)</br>

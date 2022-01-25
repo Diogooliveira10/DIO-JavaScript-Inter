@@ -1,24 +1,30 @@
 
 
-const user = {
-    id: 27,
-    displayName: 'Di',
-    fullName: {
-        firstName: 'Diogo',
-        lastName: 'Oliveira'
+function getAnimal(id) {
+    switch(id) {
+        case 1:
+            return "Cão";
+        case 2:
+            return "Gato";
+        case 3:
+            return "Pássaro";
+        default:
+            return "Peixe";
     }
-};
-
-function userId({id}) {
-    return id;
 }
 
-function getFullName({fullName: {firstName: first, lastName: last}}) {
-    return `${first} ${last}`;
-}
+console.log(getAnimal(1))
+// Cão
+console.log(getAnimal(4))
+// Peixe
+console.log(getAnimal("1"))
+// Peixe
+console.log(getAnimal(2))
+// Gato
 
-console.log(userId(user))
-// 27
-console.log(getFullName(user))
-// Diogo Oliveira
+
+
+
+
+
 
