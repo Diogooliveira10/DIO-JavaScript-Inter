@@ -127,3 +127,18 @@
 ## Bind
    Clona a estrutura da função onde é chamada e aplica o valor do objeto passado como parâmetro.</br>
 ![image](https://user-images.githubusercontent.com/55243757/151045836-ce2cb67d-b727-499e-9b00-437648d76cb7.png)</br>
+
+# Arrow functions
+## Sintaxe
+![image](https://user-images.githubusercontent.com/55243757/151047256-f1e65b9f-d2e5-4c3d-84ef-e9e2bdfbebd1.png)</br>
+
+   - Caso exista apenas uma linha, pode dispensar as chaves e o return.
+   - Caso exista apenas um parâmetro, pode dispensar os parênteses.</br>
+![image](https://user-images.githubusercontent.com/55243757/151047686-9cd8654f-f809-4766-8628-081e49fb34c1.png)![image](https://user-images.githubusercontent.com/55243757/151047829-afadb9c9-9c89-40ea-930e-9be59bdcbb0e.png)</br>
+
+   Arrow function <b>NÃO</b> faz hoisting!
+
+## Outras restrições
+   - `this` sempre será o objeto global. Métodos para modificar seu valor não irão funcionar;
+   - Não existe o objeto `arguments`;
+   - O construtor (ex: new MeuObjeto()) também não pode ser utilizado.
