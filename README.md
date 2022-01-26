@@ -17,3 +17,6 @@
 
 ## Coleções
   Conhecendo o objeto Map e o objeto Set `coleções chaveadas` em Javascript. Prfª [Stephany Nusch](https://www.linkedin.com/in/stephanynusch/)
+
+## Debugging e Error Handling
+   Como lidar com erros e exceçõe. Criando meu próprio erro personalizado. Prfª [Stephany Nusch](https://www.linkedin.com/in/stephanynusch/)
