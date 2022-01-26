@@ -10,13 +10,16 @@
   Expert [Stephany Nusch](https://www.linkedin.com/in/stephanynusch/) passa a introdução aos principais operadores para manipular valores no código.
   
 ## Variáveis e Tipos
-  Principais estruturas de dados do Javascript, como utilizá-las e suas possibilidades. Prfª [Stephany Nusch](https://www.linkedin.com/in/stephanynusch/)
+  Principais estruturas de dados do Javascript, como utilizá-las e suas possibilidades.
 
 ## Funções
-  Aprendendo a declarar funções e manipular parâmetros. Além disso, conhecendo conceitos como loops, argumento "this" e arrow functions. Prfª [Stephany Nusch](https://www.linkedin.com/in/stephanynusch/)
+  Aprendendo a declarar funções e manipular parâmetros. Além disso, conhecendo conceitos como loops, argumento "this" e arrow functions.
 
 ## Coleções
-  Conhecendo o objeto Map e o objeto Set `coleções chaveadas` em Javascript. Prfª [Stephany Nusch](https://www.linkedin.com/in/stephanynusch/)
+  Conhecendo o objeto Map e o objeto Set `coleções chaveadas` em Javascript.
 
 ## Debugging e Error Handling
-   Como lidar com erros e exceçõe. Criando meu próprio erro personalizado. Prfª [Stephany Nusch](https://www.linkedin.com/in/stephanynusch/)
+   Como lidar com erros e exceçõe. Criando meu próprio erro personalizado.
+   
+## Javascript Assíncrono
+   Conhecendo o conceito de assincronicidade, o que são Promises e aprendendo a fazer requisições de APIs.
