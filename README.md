@@ -16,4 +16,4 @@
   Aprendendo a declarar funções e manipular parâmetros. Além disso, conhecendo conceitos como loops, argumento "this" e arrow functions. Prfª [Stephany Nusch](https://www.linkedin.com/in/stephanynusch/)
 
 ## Coleções
-  Conhecendo o objeto Map e o objeto Set `cleções chaveadas` em Javascript.
+  Conhecendo o objeto Map e o objeto Set `coleções chaveadas` em Javascript. Prfª [Stephany Nusch](https://www.linkedin.com/in/stephanynusch/)
