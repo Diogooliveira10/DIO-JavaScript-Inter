@@ -1,16 +1,17 @@
 
 
 
-const myMap = new Map()
+const mySet = new Set();
 
-myMap.set('apple', 'fruit');
-// Map(1) {'apple' => 'fruit'}
-myMap.get("apple");
-// fruit
-myMap.delete("apple")
-// true
-myMap.get("apple")
-// undefined
+mySet.add(1);
+mySet.add(5);
+
+mySet.has(1);
+
+mySet.has(3);
+
+mySet.delete(5);
+
 
 
 
