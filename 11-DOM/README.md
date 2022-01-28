@@ -24,3 +24,16 @@
 ![image](https://user-images.githubusercontent.com/55243757/151564668-bd6fa15a-abb9-49e1-94ef-24b2f7f93403.png)</br>
 
 ![image](https://user-images.githubusercontent.com/55243757/151565469-31edf973-c276-4a44-b89a-69802b6b310d.png)  ![image](https://user-images.githubusercontent.com/55243757/151565828-25100063-2792-4130-b687-d03d973f8688.png)
+
+## Classes
+   Element.classList</br>
+
+![image](https://user-images.githubusercontent.com/55243757/151566757-1d546a52-188a-4d2b-8208-3d328338479a.png)</br>
+
+![image](https://user-images.githubusercontent.com/55243757/151567276-22de2cfd-abdc-49f0-a98d-6c5fecc93c64.png)</br>
+
+![image](https://user-images.githubusercontent.com/55243757/151567538-463f777c-282f-4b87-b31b-1384ae2bcf16.png)</br>
+
+   Acessando diretamento o `CSS` de um elemento
+
+![image](https://user-images.githubusercontent.com/55243757/151567946-cc4e42f2-4a2a-4b07-80af-695a2aa1777d.png)

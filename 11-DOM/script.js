@@ -1,26 +1,21 @@
 
 
 
-document.querySelectorAll('primeira-classe segunda-classe');
-/*
-[
-    <div class="primeira-classe segunda-classe">
-        <ul>
-            <li class="opcao">opcao 1</li>
-            <li class="opcao">opcao 2</li>
-            <li class="opcao">opcao 3</li>
-        </ul>
-    </div>
-]
+const meuElemento = document.getElementById("meu-elemento");
+
+meuElemento.classList.add("novo-estilo");
+// Adiciona a classe "meu estilo"
+
+meuElemento.classList.remove("classe");
+// Remove a classe "classe"
+
+meuElemento.classList.toggle("dark-mode");
+/* 
+    Adiciona a classe "dark-mode" caso ela não faça parte da
+    lista e remove ela caso faça.
 */
 
-document.querySelectorAll('li .opcao');
-/*
-[
-    <li class="opcao">opcao 1</li>
-    <li class="opcao">opcao 2</li>
-    <li class="opcao">opcao 3</li>
-]
-*/
+
+document.getElementsByTagName("p").style.color = "blue";
 
 
